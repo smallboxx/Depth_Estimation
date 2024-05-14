@@ -1,0 +1,3 @@
+depth_test/data_sample/test/img_000003.jpg$depth_test/data_sample/ground_truth/img_000003.png
+depth_test/data_sample/test/img_000004.jpg$depth_test/data_sample/ground_truth/img_000004.png
+depth_test/data_sample/test/img_000006.jpg$depth_test/data_sample/ground_truth/img_000006.png
